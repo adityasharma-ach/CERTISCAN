@@ -1,0 +1,10 @@
+django
+djangorestframework
+easyocr
+pymupdf
+pdf2image
+pyzbar
+opencv-python
+rapidfuzz
+requests
+playwright
